@@ -90,9 +90,10 @@ The study employs **Residual Networks (ResNet)** for feature extraction and a **
   - Our study: **83.24% accuracy on multi-class MRI classification**, with **higher clinical relevance**.
 
 ## Contributors
-- **Jingze Zhang** - Duke Kunshan University
+- **Jingze Zhang** - Researcher
+- **Yanming Shen** - Co-researcher
+- **Peng Sun** - Research Mentor
 - **Ming-chun Huang** - Research Mentor
-- **Yifan Peng** - Course Instructor
-
+  
 ## License
 This project is for educational and research purposes only.
